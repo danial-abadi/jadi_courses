@@ -1,2 +1,2 @@
-# jadi_courses
+readme file
 this is a test project to learn git from jadi courses in faradarse.com
